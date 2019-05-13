@@ -1,6 +1,6 @@
 numpy
 torchvision
-pytorch==1.1.0
+torch
 fastai
 starlette
 uvicorn==0.3.32
